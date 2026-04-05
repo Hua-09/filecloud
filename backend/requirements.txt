@@ -1,0 +1,7 @@
+fastapi
+uvicorn
+sqlalchemy
+python-multipart
+pyjwt
+passlib[bcrypt]
+pydantic-settings

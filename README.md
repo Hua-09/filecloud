@@ -194,5 +194,5 @@ MIT License
 ## 联系方式
 
 如有问题或建议，请联系：
-- Email: example@domain.com
-- GitHub: https://github.com/username/filecloud
+- Email: 3021964226@qq.com
+- GitHub: https://github.com/HUA-09/filecloud
